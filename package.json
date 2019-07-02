@@ -1,0 +1,30 @@
+{
+  "name": "settings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "css",
+    "html"
+  ],
+  "author": "Shakirzhan",
+  "license": "ISC",
+  "devDependencies": {
+    "path": "^0.12.7",
+    "webpack": "^4.35.2",
+    "webpack-cli": "^3.3.5"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shakirzhan/settings.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shakirzhan/settings/issues"
+  },
+  "homepage": "https://github.com/Shakirzhan/settings#readme",
+  "description": ""
+}
